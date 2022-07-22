@@ -1,0 +1,50 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font-family: "cormorant SC" serif;
+  }
+  
+
+
+  .contactme {
+    font-family: "cormorant SC", serif;
+    margin-top: 160px;
+    margin-left: 210px;
+    text-align: center;
+    border: 3px solid gray;
+    height: 275px;
+    width: 275px;
+
+  }
+
+  h1{
+    margin-top: 10px;
+    margin-bottom: 25px;
+  }
+    form {
+       
+        
+        
+    }
+  .first_name {
+    margin-bottom: 15px;
+  }
+
+  .last_name {
+    
+    margin-bottom: 15px;
+
+  }
+
+
+  .email {
+    margin-bottom: 35px;
+    margin-left: 32px;
+    
+  }
+
+  /**.button {
+    margin-top: 50px;
+    width: 100%; 
+  } **/
